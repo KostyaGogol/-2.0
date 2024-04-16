@@ -1,0 +1,18 @@
+print ('Добро пожаловать в дневник!')
+name = input('Введите название придмета:')
+input('Какие оценки по Математике? (0 - exit)')
+
+
+
+
+
+
+
+
+
+game = True
+
+while dnewnik:
+    for e in event.get():
+        if e.type == QUIT:
+            game = False
